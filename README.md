@@ -1,7 +1,7 @@
 ### Hi my name is Palesa Sethibe.
 
 
-** I am a Data Analyst.
+ I am a Data Analyst.
 
 
 
