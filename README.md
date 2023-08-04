@@ -1,6 +1,6 @@
 ### Hi my name is Palesa Sethibe.
 
-<!--
+
 ** I am a Data Analyst.
 
 
@@ -11,4 +11,4 @@
 - 📫 How to reach me: LinkedIn-http://linkedin.com/in/palesa-sethibe-4220a51b8
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I love listening to music and reading books
--->
+
